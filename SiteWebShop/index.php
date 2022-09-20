@@ -17,6 +17,7 @@ if(isset($cookieCat) && $cookieCat != "all"){
 }
 
 ?>
+
 <!DOCTYPE html>
 <html>
  <head>
